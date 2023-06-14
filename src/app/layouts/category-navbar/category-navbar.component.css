@@ -1,0 +1,11 @@
+nav ul li a{
+    color:var(--primary-color);
+}
+
+nav ul{
+    margin: auto;
+}
+
+nav{
+    margin-top: 100px;
+}

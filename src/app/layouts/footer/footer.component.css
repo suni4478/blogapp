@@ -1,0 +1,12 @@
+#copyright{
+    color: var(--primary-color);
+}
+
+footer ul li a{
+    color: var(--primary-color);
+}
+
+footer{
+    background-color: var(--secondary-color);
+   
+}
